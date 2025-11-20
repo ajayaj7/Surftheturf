@@ -22,12 +22,6 @@ Checkout our Website[@surftheturf.herokuapp.com/](https://surftheturf.herokuapp.
 
 - **Password:** demo1 --->
 
-## Group Members:
-- [@parthdali](https://github.com/parthd06)
-- [@pranavdalvi](https://github.com/PRANAVD-10)
-- [@pranavbangera](https://github.com/pranavb18)
-- [@shivambhosale](https://github.com/ShivamB10)
-- [@harshkumarbhikadiya](https://github.com/Harshbhikadiya29)
 
 <!----
 ## Additional Collaborators:
@@ -124,4 +118,5 @@ Scientific Research & Development Vol. 7, Issue 10, 2019.(Accessed: July 23,
 
 3.AvailableOnline:https://softensy.com/how-to-create-payment-gateway-and-be
 come-a-payment-service-provider/(Accessed: July 25, 2021)
+
 
